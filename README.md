@@ -1,7 +1,7 @@
 # 👋👋 Hi There, I am GYAN PRAKASH SINGH
 
 <a>
-<img src="gyan_profile.jpg" class="inline" style="width: 300px; height: 300px;">
+<img src="[gyan_profile.jpg](https://github.com/gprajpoot/About-Me/blob/main/gyan_profile.jpeg)" class="inline" style="width: 300px; height: 300px;">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gprajpoot.visitor-badge)
 [![GitHub followers](https://img.shields.io/github/followers/gprajpoot.svg?style=social&label=Follow)](https://github.com/gprajpoot?tab=followers)
